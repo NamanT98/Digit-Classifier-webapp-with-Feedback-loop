@@ -1,3 +1,4 @@
+# Digit Classifier streamlit app
 1. Install the required libraries. 
 2. Make sure to be inside the assignment directory
 3. Run command: streamlit run src/app.py
